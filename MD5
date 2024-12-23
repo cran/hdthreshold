@@ -1,0 +1,17 @@
+725ac897228aa809e5767eb01be0663c *DESCRIPTION
+8bd1740a9eb29c63c53613899bcb4da8 *LICENSE
+740b6aacda6f087be87fd524b19eda3a *NAMESPACE
+bc112b32b598c5361a766639968a8918 *NEWS.md
+c4020d6d6d48124d4d8e07684c1aea99 *R/20241206_simulation_function_edit.R
+6065753b4e4543d020de87fdfaaee97c *R/20241206_test_function_edit.R
+f3a6286d138cb83a064ce43779d039fb *man/K.Rd
+8eae2c97345086567edb895198448422 *man/MAinf_normal.Rd
+a0a9e4cbcfba1be7c85a51aaa26face9 *man/simulation.derivative.Rd
+07f09572f5d18284a2f68fa2bedcbbd5 *man/simulation.hetero.Rd
+c8c039bfd867839679b30a283e1feb29 *man/simulation.pooled.Rd
+bd17ee17cf4723fa88495708cb25ef2b *man/simulation.threshold.Rd
+88898bd10da1d9b978094d5a9d65db8d *man/simulation.unknown.Rd
+f5d3ed10b901380880cb5ed5ad572bf4 *man/threshold.derivative.test.Rd
+21e9b26d9b0b13315a20039f22348d2b *man/threshold.example.Rd
+88a89b1cfb117a9201c5f86a4eb25d4e *man/threshold.heterogeneity.test.Rd
+ec448815376d79fce9cca2e2355a5e81 *man/threshold.test.Rd
